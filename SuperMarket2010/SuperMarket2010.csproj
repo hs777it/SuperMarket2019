@@ -165,6 +165,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\SuperMarket2019.sql" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
